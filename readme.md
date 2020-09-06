@@ -30,6 +30,9 @@ When you'll click on the trash icon, a popup will also appear. It will ask you a
 ## Student Report
 
 -   What was the main challenge that you had to face during the project?
+    During this project, changing the content of the list into the new edit was a big challenge to me. Showong the new list after a delete was also a bit challenging.
+
 -   Did you use Promise callbacks? Or Async Await?
+    I used Async Await but I have to admit that I still struggle to use promise.
 
 Good luck everybody 🐻
